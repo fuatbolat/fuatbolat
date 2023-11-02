@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuatbolat
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning ios development with swift
-- 📫 How to reach me https://www.linkedin.com/in/fuat-bolat-471408254/
+- 📫 How to reach me https://www.linkedin.com/in/fuat-bolat-471408254/](https://www.linkedin.com/in/fuatbolat/
 
 <!---
 fuatbolat/fuatbolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
