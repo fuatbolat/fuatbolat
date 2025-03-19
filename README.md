@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuatbolat
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ios development with swift
+- 🌱 I’m currently learning backend development with java
 - 📫 How to reach me https://www.linkedin.com/in/fuatbolat/
 
 <!---
